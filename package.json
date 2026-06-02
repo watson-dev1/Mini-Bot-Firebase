@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "baileys": "baileyz",
+    "baileys": "latest",
     "@xaviabot/fb-downloader": "latest",
     "darksadas-yt-pornhub-scrape": "latest",
     "@dark-yasiya/scrap": "latest",
